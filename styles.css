@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+
+}
+
+p {
+    font-size: 24px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    align-items: center;
+    margin-left: 25%;
+}
+
+form{
+    margin-left: 4%;    
+}
